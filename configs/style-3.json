@@ -139,6 +139,9 @@
     "stylers": [
       {
         "color": "#dadada"
+      },
+      {
+        "lightness": -10
       }
     ]
   },

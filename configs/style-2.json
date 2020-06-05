@@ -121,6 +121,9 @@
     "stylers": [
       {
         "color": "#dadada"
+      },
+      {
+        "lightness": -5
       }
     ]
   },

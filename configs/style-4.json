@@ -106,9 +106,6 @@
     "stylers": [
       {
         "color": "#dadada"
-      },
-      {
-        "lightness": 45
       }
     ]
   },
@@ -145,6 +142,9 @@
     "stylers": [
       {
         "color": "#dadada"
+      },
+      {
+        "lightness": -10
       }
     ]
   },
@@ -208,6 +208,15 @@
     "stylers": [
       {
         "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "lightness": 10
       }
     ]
   },
